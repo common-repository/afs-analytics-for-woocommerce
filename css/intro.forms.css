@@ -1,0 +1,138 @@
+/* ACCOUNT FORM */
+
+
+
+.afsa_intro_title {
+	color: #212b44;
+	font-size: 22px;
+	padding: 20px;
+	font-weight: 500;
+	flex: 1 1;
+}
+
+.afsa_button,
+.afsa_button:hover {
+	background: #428bca;
+	color: white !important;
+	border: none;
+	font-size: 18px !important;
+	padding: 10px;
+	min-width: 200px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+}
+
+.afsa_account_form *::placeholder {
+	color: #ccc;
+	font-size: 18px;
+	vertical-align: middle;
+}
+
+
+form.afsa_existing_account input[type="text"] {
+	font-size: 25px;
+	color: #336677;
+	display: inline-block;
+	padding: 4px;
+	border: none;
+	border: 1px solid #c0c4c6 !important;
+	border-radius: 3px;
+	margin-bottom: 20px;
+	box-shadow: none;
+	text-align: center;
+}
+
+
+
+
+.afsa_account_form,
+.afsa_demo_form {
+	padding: 20px;
+	display: flex;
+	border-radius: 16px;
+	margin: auto;
+	margin-top: 50px;
+	flex-wrap: wrap;
+	background: rgba(255, 255, 255, 1);
+	transition: all 300ms ease;
+	cursor: default;
+	overflow: hidden;
+
+}
+
+
+
+
+.afsa_account_form:hover,
+.afsa_demo_form:hover {
+	background: white;
+}
+
+
+
+
+div.afsa_new_account,
+form.afsa_existing_account {
+	display: flex;
+	flex-direction: column;
+	flex: 1 1;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+
+
+
+
+form.afsa_existing_account .afsa_form_help {
+	margin-bottom: 10px;
+	color: #121416;
+}
+
+
+
+/* DEMO FORM */
+
+.afsa_demo_form .afsa_row {
+	flex: 0 0 100%;
+	display: flex;
+}
+
+.afsa_demo_form .afsa_text_container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+}
+
+.afsa_demo_form .afsa_img_container {
+	order: 2;
+	flex: 0 0;
+}
+
+.afsa_demo_form img {
+	height: 200px;
+	flex: 0 0;
+}
+
+.afsa_demo_form .afsa_title {
+	color: #212b44;
+	font-size: 22px;
+	flex: 0 0;
+	font-weight: 500;
+}
+
+.afsa_demo_form .afsa_text {
+	font-size: 16px;
+	flex: 1 0;
+	max-width: 60%;
+	margin-top: 10px;
+	cursor: default;
+}
+
+.afsa_demo_form a.afsa_launch_demo {
+	flex: 0 0;
+	max-width: 200px;
+	text-decoration: none;
+	text-align: center;
+}

@@ -1,0 +1,37 @@
+p.afsa_help {
+	max-width: 320px;
+}
+
+.afsa_button,
+.afsa_button:hover {
+	width: 150px;
+	background: #428bca;
+	color: white;
+	border: none;
+	font-size: 14px;
+	padding: 10px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+p.afsa_help span.afsa_link {
+	text-decoration: underline;
+	color: blue;
+	cursor: pointer;
+}
+
+span.afsa_link,
+div.afsa_warpto {
+	cursor: pointer;
+	border: 1px solid cornflowerblue;
+	padding: 5px;
+	border-radius: 3px;
+	display: inline-block;
+	color: cornflowerblue !important;
+	text-decoration: none !important;
+}
+
+
+/*.toplevel_page_afsa_dashboard .wp-submenu .wp-first-item { display: none; }*/

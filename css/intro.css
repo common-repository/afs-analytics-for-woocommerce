@@ -1,0 +1,75 @@
+body {
+	background: #212b44;
+}
+
+#wpcontent {
+	font: 14px open sans;
+}
+
+#wpfooter {
+	color: rgba(255,255,255,0.75);
+}
+
+#wpfooter a {
+	color: white;
+}
+
+img.afsa_logo {
+	height: auto;
+	top: 0px;
+	position: relative;
+}
+
+.afsa_account_form .afsa_logo_container {
+	flex: 1 0;
+}
+
+.afsa_intro_container {
+	max-width: 70%;
+	margin: auto;
+}
+
+
+
+/* MOBILE */
+
+.mobile .afsa_intro_container {
+	width: 96%;
+	max-width: 96%;
+	margin-left: 2%;
+	margin-right: 2%;
+	text-align: center;
+}
+
+
+
+.mobile .afsa_existing_account {
+	width: 100%;
+	max-width: none;
+}
+
+
+.mobile .afsa_account_form,
+.mobile .afsa_demo_form {
+	background: white;
+}
+
+.mobile .afsa_demo_form img {
+	height: 110px;
+	flex: 0 0;
+}
+
+.mobile .afsa_demo_form .afsa_headline {
+	max-width: none;
+	margin-bottom: 20px;
+}
+
+.mobile div.afsa_create_account,
+.mobile form.afsa_existing_account {
+	flex: 1 1;
+}
+
+.mobile .afsa_create_account {
+	margin-top: 30px;
+	max-width: none;
+}

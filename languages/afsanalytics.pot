@@ -1,0 +1,419 @@
+# Copyright (C) 2023 AFS Analytics
+# This file is distributed under the same license as the AFS Analytics plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: AFS Analytics 4.18\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/afsanalytics\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-02-16T12:28:08-05:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: afsanalytics\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/class-afsa-admin.php:166
+#: includes/class-afsa-admin.php:185
+msgid "AFS Analytics"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.afsanalytics.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Full featured Web Analytics solution. Easy to use, in addition or as an alternative to google analytics."
+msgstr ""
+
+#: includes/account/class-afsa-account-controller.php:157
+msgid "Congratulations!"
+msgstr ""
+
+#: includes/account/class-afsa-account-controller.php:164
+msgid "Your AFS Analytics plugin is now fully configured."
+msgstr ""
+
+#: includes/account/class-afsa-account-controller.php:171
+msgid "Traffic and activity on your shop is now monitored in real time."
+msgstr ""
+
+#: includes/account/class-afsa-account-controller.php:173
+msgid "Detailed statistics will begin to appear in your plugin dashboard as soon as new visitors will be visiting it."
+msgstr ""
+
+#: includes/account/class-afsa-account-controller.php:179
+msgid "You can retrieve your Account ID at any time by visiting this plugin configuration page."
+msgstr ""
+
+#: includes/account/class-afsa-account-controller.php:186
+msgid "Thanks for using AFS analytics."
+msgstr ""
+
+#: includes/account/class-afsa-account-controller.php:195
+msgid "Advanced configuration"
+msgstr ""
+
+#: includes/account/class-afsa-account-controller.php:199
+msgid "Open Dashboard"
+msgstr ""
+
+#: includes/account/class-afsa-account-controller.php:203
+msgid "Visit AFSAnalytics.com"
+msgstr ""
+
+#: includes/api/oauth/class-afsa-oauth-client.php:160
+msgid "oauth_invalid_state"
+msgstr ""
+
+#: includes/class-afsa-admin.php:165
+msgid "AFS Analytics - Dashboard"
+msgstr ""
+
+#: includes/class-afsa-admin.php:176
+#: includes/class-afsa-admin.php:184
+msgid "AFS Analytics - Plugin settings"
+msgstr ""
+
+#: includes/class-afsa-admin.php:177
+msgid "Plugin settings"
+msgstr ""
+
+#: includes/class-afsa-admin.php:198
+msgid "AFS Analytics - Upgrade"
+msgstr ""
+
+#: includes/class-afsa-admin.php:199
+msgid "Upgrade Account"
+msgstr ""
+
+#: includes/class-afsa-admin.php:208
+msgid "AFS Analytics - Online Dashboard"
+msgstr ""
+
+#: includes/class-afsa-admin.php:209
+msgid "View extra reports on AFSAnalytics.com online dashboard"
+msgstr ""
+
+#: includes/class-afsa-admin.php:220
+msgid "AFS Analytics - Account manager"
+msgstr ""
+
+#: includes/class-afsa-admin.php:221
+msgid "account_manager"
+msgstr ""
+
+#: includes/class-afsa-admin.php:230
+msgid "AFS Analytics - Demo"
+msgstr ""
+
+#: includes/class-afsa-admin.php:231
+msgid "Dashboard Demo"
+msgstr ""
+
+#: includes/class-afsa-admin.php:240
+msgid "AFS Analytics - Contact Us"
+msgstr ""
+
+#: includes/class-afsa-admin.php:241
+msgid "Contact us"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:10
+msgid "Configure your AFS Analytics plugin in one click"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:19
+msgid "If you already possess an AFS analytics account, enter your Website ID below, click on \"Link website\", and you are done."
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:22
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:37
+msgid "Website ID"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:24
+msgid "Link Website"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:28
+msgid "Or create a free account by clicking on \"Create Free Account\"."
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:30
+msgid "Would you wish to, you will be able to upgrade your free account to an advanced one at any time."
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:32
+msgid "Create Free Account"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:67
+#: includes/controllers/renderer/class-afsa-dashboard-renderer.php:236
+msgid "Live Demo"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:69
+msgid "Experience the full power of AFS Analytics with our live demo. No Account required."
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-account-form-renderer.php:72
+msgid "Launch Demo"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-admin-widget-dashboard-renderer.php:45
+msgid "Days Trends Summary will start to be displayed here as soon as you open the embedded"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-admin-widget-dashboard-renderer.php:47
+msgid "dashboard"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-dashboard-renderer.php:231
+msgid "Create your very own Account"
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-dashboard-renderer.php:239
+msgid "This dashboard is displaying in real time the activity of a WordPress website running a Woocommerce eShop."
+msgstr ""
+
+#: includes/controllers/renderer/class-afsa-dashboard-renderer.php:241
+msgid "To monitor your own website, you will have to open your own account."
+msgstr ""
+
+#: includes/controllers/settings/class-afsa-setting-page.php:44
+msgid "Main Settings"
+msgstr ""
+
+#: includes/controllers/settings/class-afsa-setting-page.php:45
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/controllers/settings/class-afsa-setting-page.php:46
+msgid "Privacy"
+msgstr ""
+
+#: includes/controllers/settings/class-afsa-setting-page.php:93
+msgid "AFS Analytics settings"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-autotrack.php:9
+msgid "Monitored Events"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-autotrack.php:17
+msgid "Outbound clicks tracking"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-autotrack.php:18
+msgid "Inside clicks tracking"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-autotrack.php:19
+msgid "Download tracking"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-autotrack.php:20
+msgid "Video tracking"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-autotrack.php:21
+msgid "Iframe tracking"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:45
+msgid "Your AFS Analytics Website ID"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:46
+msgid "Enter your AFS Analytics Website ID or"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:48
+msgid "Create a free Account"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:49
+msgid "if you do not have one yet"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:63
+msgid "Track Admin Page"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:64
+msgid "Ignore my visits"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:65
+msgid "Track user login"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:66
+msgid "Display day trends summary on Admin Dashboard"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:67
+msgid "Enable gravatar profile support"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:78
+msgid "Access Key"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:89
+msgid "An Access key allow you to access your AFS Analytics Dashboard without providing a password each time."
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-main.php:92
+msgid "Create an access key"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-privacy.php:9
+msgid "Privacy Settings"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-privacy.php:17
+msgid "Anonymize Users Information"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-privacy.php:23
+msgid "Cookie Settings"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-privacy.php:24
+msgid "Anonymize IP addresses"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-privacy.php:30
+msgid "EU law on the deposit of cookies"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-privacy.php:38
+msgid "Ask User's Consent"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-privacy.php:39
+msgid "Located in"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-woo.php:9
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-woo.php:26
+msgid "Default sales Chanel"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab-woo.php:36
+msgid "The name of default the sale channel you want to be shown as origin of any order processed by WooCommerce."
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:91
+msgid "First party"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:92
+msgid "No Cookies"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:95
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:102
+msgid "Disabled"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:96
+msgid "1 Byte"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:97
+msgid "2 Bytes"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:98
+msgid "3 Bytes"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:99
+msgid "4 Bytes"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:103
+msgid "Exemption"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:104
+msgid "Auto"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:107
+msgid "Europe"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:108
+msgid "World"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:118
+msgid "Off"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:119
+msgid "On"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:120
+msgid "Dataset"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:164
+msgid "Check this if you want activity on your admin pages to be tracked (default: checked)"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:166
+msgid "Check this if you do not want your own visits to be tracked (default: unchecked)"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:168
+msgid "Enable user tracking (default: checked)"
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:170
+msgid "Check this option to anonymize visitor information."
+msgstr ""
+
+#: includes/controllers/settings/tabs/class-afsa-setting-tab.php:172
+msgid "Use users gravatar profile as default avatar image."
+msgstr ""
+
+#: includes/ui/class-afsa-post-title.php:12
+msgid "AFS Analytics tracker name"
+msgstr ""
+
+#: includes/ui/class-afsa-post-title.php:15
+msgid "tracker name (optional)"
+msgstr ""
+
+#: includes/woo/class-afsa-woo-hooks-products.php:64
+msgid "search"
+msgstr ""
+
+#: includes/woo/class-afsa-woo-hooks-products.php:66
+msgid "product categorie"
+msgstr ""
+
+#: includes/woo/class-afsa-woo-hooks-products.php:68
+msgid "front page"
+msgstr ""
+
+#: includes/woo/class-afsa-woo-hooks-products.php:70
+msgid "shop index"
+msgstr ""
+
+#: includes/woo/class-afsa-woo-hooks-products.php:159
+msgid "product detail"
+msgstr ""
